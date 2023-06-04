@@ -1,0 +1,1 @@
+export type TUpdateFunction = (params:string) => void;

@@ -1,0 +1,35 @@
+{
+ "products": [
+  {
+    "productID" : "KL2432",
+    "productName" : "Hugo Boss men’s suit",
+    "productPrice" :  2500, 
+    "productPriceFormatted" : "DKK 2.500,00", 
+    "inStock" : true, 
+    "relatedProducts": [
+          {"productID": "KL2532"},
+          {"productID": "KL2341"}
+    ]
+    },  {
+      "productID" : "BL2432",
+      "productName" : "WOW men’s suit",
+      "productPrice" :  25000, 
+      "productPriceFormatted" : "Mj 2.500,00", 
+      "inStock" : true, 
+      "relatedProducts": [
+            {"productID": "MJ2532"},
+            {"productID": "MJ2341"}
+      ]
+      } ,  {
+        "productID" : "AN2432",
+        "productName" : "AN Boss men’s suit",
+        "productPrice" :  2000, 
+        "productPriceFormatted" : "ANS 2.500,00", 
+        "inStock" : true, 
+        "relatedProducts": [
+              {"productID": "AN2532"},
+              {"productID": "AN2341"}
+        ]
+        }
+]
+}
